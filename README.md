@@ -1,6 +1,14 @@
-### Hi, I'm 김민규 
+# team3-git-practice
 
-#### Student exploring AI with a focus on robotics
-I build intelligent agents that bridge the gap between perception and real-world execution.
+python_based_programming
+파이선 기반 응용 프로그래밍 3조
 
-I also enjoy building and shipping web projects.
+퀴즈 6을 위한 레포를 제작하였습니다
+
+각자 자신의 브런치를 생성해주시고 퀴즈 진행을 해주시면 되겠습니다
+
+PR(PullRequest)생성시 리뷰어는 팀장(PUTG:김영민)으로 설정해 주시고 제목은 [이름/작업내용 PR제출합니다]라고 작성해 주시여 생성해 주시면 감사하겠습니다
+
+commit은 간단하게 무슨 작업을 했는지 메시지를 달아 진행해주시면 좋겠으며 feat: 새로운 기능추가 refactor: 리팩토링(구조 변경) docs: 문서 작성 fix: 버그 수정 chore: 환경 변수 수정 같이 의미단위로 커밋을 분리하여 주시면 좋을것 같습니다
+
+PR는 생성시 검수하여 리뷰 후 merge 여부를 결정하겠으며 사용하지 않는 불피요한 브랜치는 삭제 처리 하겠습니다
